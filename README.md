@@ -1,6 +1,6 @@
 # 🧬 DNA Molar Pooling Calculator
 
-### [🚀 Click here to use the Live App](https://www.google.com/search?q=https://danielsangarci.shinyapps.io/dna-molar-pooling-calculator/))
+### [🚀 Click here to use the Live App](https://danielsangarci.shinyapps.io/dna-molar-pooling-calculator/)
 
 **A precision R Shiny tool for normalizing and pooling double-stranded DNA (dsDNA) based on molarity, not just mass.**
 
