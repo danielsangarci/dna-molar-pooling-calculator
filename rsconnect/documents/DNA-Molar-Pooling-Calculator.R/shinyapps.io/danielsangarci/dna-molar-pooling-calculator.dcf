@@ -1,0 +1,13 @@
+name: dna-molar-pooling-calculator
+title: dna-molar-pooling-calculator
+username: danielsangarci
+account: danielsangarci
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16539552
+bundleId: 11508589
+url: https://danielsangarci.shinyapps.io/dna-molar-pooling-calculator/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .gitattributes|LICENSE
